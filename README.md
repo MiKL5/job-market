@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.14.7-3776AB?logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-HTTP-2C5BB4) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-html.parser-green) ![Adzuna](https://img.shields.io/badge/API-Adzuna-orange)
+![Python](https://img.shields.io/badge/Python-3.14.7-3776AB?logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-HTTP-2C5BB4) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-html.parser-green) ![Adzuna](https://img.shields.io/badge/API-Adzuna-orange)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18.6-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white) ![Rich](https://img.shields.io/badge/Rich-terminal-purple) ![RGPD](https://img.shields.io/badge/RGPD-minimisation-blue)
 
 </div>
